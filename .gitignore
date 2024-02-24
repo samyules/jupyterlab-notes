@@ -1,3 +1,5 @@
 .env
 *.log
 chroma_db
+.ipynb_checkpoints
+autogen-notebooks
